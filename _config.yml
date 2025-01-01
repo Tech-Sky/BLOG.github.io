@@ -1,5 +1,5 @@
-name: "Blog Demo" # change it to a title you want
-description: "A demo blog." # change it to a description you want
+name: "辞屿的博客" # change it to a title you want
+description: "看看我在做什么吧." # change it to a description you want
 
 avatar: images/avatar.png
 favicon: images/favicon.ico
